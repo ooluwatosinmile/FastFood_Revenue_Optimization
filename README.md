@@ -55,3 +55,17 @@ ORDER BY High_Margin_Revenue DESC;
 | 4 | Walter Muller | Berlin | $5,718.91 |
 
 Key Finding: Joao Silva (In-store focused, Lisbon) and Tom Jackson (Online focused, London) are the benchmarks for driving premium product revenue in different channel environments.
+## 🚀 Actionable Strategic Roadmap
+
+Based on the complete EDA, the following three strategies are recommended for immediate implementation:
+
+### 1. Model Managerial Excellence by Channel
+* **Action:** Document and train the techniques of **Joao Silva** (In-store high-margin selling) and **Tom Jackson** (Online high-margin selling) to standardize best practices across all cities.
+* **Target:** Implement training on low-performing managers like Walter Muller and Pablo Perez to lift high-margin revenue.
+
+### 2. Attack the Sunday Revenue Dip
+* **Action:** Launch dedicated, channel-specific promotions for the high-margin **Burgers** to recover the **70% revenue gap** on Sundays.
+* **Strategy:** Use an **Online-focused promotion** for digital cities (like London) and an **In-store family bundle** for physical-heavy cities (like Lisbon/Madrid).
+
+### 3. Review Chicken Sandwich Positioning
+* **Action:** Investigate why Chicken Sandwiches—despite a high price point—have low volume. The issue is likely the product's perceived value or market positioning, not the price itself.
