@@ -1,0 +1,7 @@
+Order_ID,date,Product,price,Quantity,Total_Amount,Purchase_Type,Payment_Method,Manager,City
+10452,2022-11-07,Fries,3.49,164,573.07,Online,Gift Card,Tom Jackson,London
+10453,2022-11-07,Beverages,2.95,253,745.76,Online,Gift Card,Pablo Perez,Madrid
+10454,2022-11-07,Sides & Other,4.99,40,200.40,In-store,Gift Card,Joao Silva,Lisbon
+10455,2022-11-08,Burgers,12.99,44,569.67,In-store,Credit Card,Walter Muller,Berlin
+10456,2022-11-08,Chicken Sandwiches,9.95,20,201.01,In-store,Credit Card,Walter Muller,Berlin
+10457,2022-11-08,Fries,3.49,164,573.07,In-store,Credit Card,Remy Monet,Paris
