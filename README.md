@@ -48,3 +48,6 @@ SELECT Manager, City, SUM(CASE WHEN Product IN ('Burgers', 'Chicken Sandwiches')
 FROM sales_data1
 GROUP BY Manager, City
 ORDER BY High_Margin_Revenue DESC;
+High-Margin Revenue by Manager/City: | Rank | Manager | City | High-Margin Revenue | | :--- | :--- | :--- | :--- | | 1 | Joao Silva | Lisbon | $11,672.21 | | 2 | Tom Jackson | London | $11,052.98 | | 3 | Pablo Perez | Madrid | $7,474.97 | | 4 | Walter Muller | Berlin | $5,718.91 |
+
+Key Finding: Joao Silva (In-store focused, Lisbon) and Tom Jackson (Online focused, London) are the benchmarks for driving premium product revenue in different channel environments.
