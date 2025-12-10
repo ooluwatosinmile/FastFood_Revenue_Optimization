@@ -26,7 +26,7 @@ The entire analysis was performed using **SQL** to aggregate and segment data, e
 
 ### 1. Product Unit Economics (The Margin Opportunity)
 
-The analysis of revenue, volume, and average price confirmed that the focus must be on high-margin products like **Burgers**.
+The analysis of revenue, volume, and average price confirmed that the focus must be on high margin products like **Burgers**.
 
 | Product | Avg. Price | Total Volume | Total Revenue |
 | :--- | :--- | :--- | :--- |
@@ -34,13 +34,13 @@ The analysis of revenue, volume, and average price confirmed that the focus must
 | Chicken Sandwiches | $10.32 | 1,095 | $11,135.92 |
 | Beverages | $2.95 | 11,868 | $34,983.14 |
 
-**Insight:** Burgers drive the highest per-unit value, but their low volume compared to Beverages (11,868 units) indicates a major untapped sales opportunity.
+**Insight:** Burgers drive the highest per unit value, but their low volume compared to Beverages (11,868 units) indicates a major untapped sales opportunity.
 
 ---
 
 ### 2. Operational Profit Benchmarking (The Synthesis)
 
-The final step was linking the high-margin products (Burgers/Sandwiches) to operational success, isolating the top performers.
+The final step was linking the high margin products (Burgers/Sandwiches) to operational success, isolating the top performers.
 
 **SQL Query (Final Synthesis):**
 ```sql
