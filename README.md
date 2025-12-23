@@ -48,6 +48,7 @@ SELECT Manager, City, SUM(CASE WHEN Product IN ('Burgers', 'Chicken Sandwiches')
 FROM sales_data1
 GROUP BY Manager, City
 ORDER BY High_Margin_Revenue DESC;
+```
 
 | Rank | Manager        | City   | High-Margin Revenue |
 | :--- | :------------- | :----- | ------------------- |
