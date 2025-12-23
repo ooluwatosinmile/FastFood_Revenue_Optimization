@@ -28,11 +28,13 @@ The entire analysis was performed using **SQL** to aggregate and segment data, e
 
 The analysis of revenue, volume, and average price confirmed that the focus must be on high margin products like **Burgers**.
 
-| Product | Avg. Price | Total Volume | Total Revenue |
-| :--- | :--- | :--- | :--- |
-| **Burgers** | $12.99 | 2,234 | $29,022.31 |
-| Chicken Sandwiches | $10.32 | 1,095 | $11,135.92 |
-| Beverages | $2.95 | 11,868 | $34,983.14 |
+| Rank | Manager        | City   | High-Margin Revenue |
+| :--- | :------------- | :----- | ------------------- |
+| **1** | Joao Silva     | Lisbon | $11,672.21 |
+| **2** | Tom Jackson    | London | $11,052.98 |
+| 3 | Pablo Perez     | Madrid | $7,474.97 |
+| 4 | Walter Muller   | Berlin | $5,718.91 |
+
 
 **Insight:** Burgers drive the highest per unit value, but their low volume compared to Beverages (11,868 units) indicates a major untapped sales opportunity.
 
