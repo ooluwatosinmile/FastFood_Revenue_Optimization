@@ -49,6 +49,7 @@ FROM sales_data1
 GROUP BY Manager, City
 ORDER BY High_Margin_Revenue DESC;
 | Rank | Manager | City | High-Margin Revenue |
+| :--- | :--- | :--- | :--- |
 | 1 |Joao Silva | Lisbon | $11,672.21 |
 | 2 | Tom Jackson | London | $11,052.98 |
 | 3 | Pablo Perez | Madrid | $7,474.97 |
